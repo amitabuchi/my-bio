@@ -1,2 +1,4 @@
 # my-bio
-Description of Ami
+Biography of Ami
+
+I am a girl living in Vancouver
